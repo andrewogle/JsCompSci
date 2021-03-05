@@ -61,6 +61,6 @@ list.addToHead(2)
 list.addToHead(3)
 list.addToHead(4)
 list.addToHead(5)
-list.addToHead(6)
+list.addToHead(7)
 
 list.print()
